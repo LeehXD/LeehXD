@@ -30,7 +30,4 @@
 
 ##
 
-     ! [ Animação de cobra ] (https://github.com/LeehXD/LeehXD/blob/output/github-contribution-grid-snake.svg)
-  
-
-</div>
+ ! [ Animação de cobra ] (https://github.com/LeehXD/LeehXD/blob/output/github-contribution-grid-snake.svg)
