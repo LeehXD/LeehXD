@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Datas
 
 on: 
   schedule:
