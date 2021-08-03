@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: LeehXD/snk@master
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: LeehXD
