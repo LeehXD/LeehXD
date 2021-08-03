@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: LeehXD
-        id: snake-gif
+        id: https://raw.githubusercontent.com/leoyassuda/leoyassuda/0f4f7c03bc44e22e647a4076d8012b52afb642e0/github-contribution-grid-snake.svg
         with:
           github_user_name: LeehXD
           svg_out_path: dist/github-contribution-grid-snake.svg
