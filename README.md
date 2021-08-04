@@ -4,6 +4,8 @@
     
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeehXD&layout=compact&langs_count=16&theme=radical" />)
+    
+  <img width="100%" src="https://github.com/LeehXD/LeehXD/blob/main/github-metrics.svg" />
 
  ##
  ### 𝒞𝑜𝓃𝑒𝒸𝓉𝑒-𝓈𝑒 𝒸𝑜𝓂𝒾𝑔𝑜:
