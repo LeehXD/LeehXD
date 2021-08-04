@@ -19,8 +19,8 @@
    
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
    
 ##
 ### 𝐹𝑒𝓇𝓇𝒶𝓂𝑒𝓃𝓉𝒶𝓈:
@@ -28,6 +28,7 @@
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+   <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 ##
 ### 𝒱𝒾𝓈𝒾𝓉𝒶𝓈 𝓃𝑜 𝓅𝑒𝓇𝒻𝒾𝓁:
