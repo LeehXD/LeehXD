@@ -1,10 +1,11 @@
 <div>
   
-# Hi I'm Leeh, be very welcome ❤️🌎
+# Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />  
 ### About Me:
   
-Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando graduação em Análise e Desenvolvimento de Sistema - UNIVEM.
-  Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também pelo mundo do design de interfaces.
+Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando     graduação em Análise e Desenvolvimento de Sistema - UNIVEM.
+Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também pelo mundo do design de interfaces. 
+  
 
   <a href="https://github.com/LeehXD">
     
@@ -13,6 +14,7 @@ Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na esco
     
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeehXD&layout=compact&langs_count=16&theme=radical" />
+
 
  ##
  ### Connect with me:
@@ -47,9 +49,6 @@ Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na esco
 #
    
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
-
    
- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64784f44423955453837395244714168336f2f67697068792e676966](https://user-images.githubusercontent.com/82847453/128448037-33b1f3cb-ddf5-439e-a68c-6ee9584e77e2.gif)
-
    
  </div>  
