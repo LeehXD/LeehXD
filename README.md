@@ -15,7 +15,7 @@
  <a href = "https://www.instagram.com/leeh.xp/?hl=pt" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
  <a href = "https://www.linkedin.com/in/let%C3%ADcia-jord%C3%A3o-011389197/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>
  <a href = "mailto:info@example.com?&subject=&cc=&bcc=&body=leticiajordaoxp@gmail.com%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-
+ <a href = "https://dev.to/leehxd" > ![icons8-dev-48](https://user-images.githubusercontent.com/82847453/128442068-90264e01-d9be-47b9-ac4a-f4d96038b612.png)
 ##
 ### Languages:
    
