@@ -1,8 +1,15 @@
 <div>
   
 # Hi I'm Leeh, be very welcome ❤️🌎
+### About Me:
   
+Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando graduação em Análise e Desenvolvimento de Sistema - UNIVEM.
+  Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também pelo mundo do design de interfaces.
+
   <a href="https://github.com/LeehXD">
+    
+    
+ #
     
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeehXD&layout=compact&langs_count=16&theme=radical" />
