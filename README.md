@@ -49,4 +49,7 @@ Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na esco
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
 
    
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64784f44423955453837395244714168336f2f67697068792e676966](https://user-images.githubusercontent.com/82847453/128448037-33b1f3cb-ddf5-439e-a68c-6ee9584e77e2.gif)
+
+   
  </div>  
