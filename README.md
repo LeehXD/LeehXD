@@ -48,7 +48,7 @@ Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também p
    
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
         
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oezef9wphyo4l5bc6wnnxvqov)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21wh7zwrhaod6l6r5a4vx42dy)
     
       
  </div>  
