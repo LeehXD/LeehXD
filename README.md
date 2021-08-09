@@ -48,9 +48,7 @@ Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também p
    
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
         
- 
- <td align = "center">
-      <img alt = "" width = "400" src = "https://github.com/LeehXD/LeehXD/blob/master/metrics.classic.svg">
-      <img width = "900" height = "1" alt = "">
-    </td>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oezef9wphyo4l5bc6wnnxvqov)
+    
+      
  </div>  
