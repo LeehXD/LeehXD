@@ -10,8 +10,6 @@ Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também p
   <a href="https://github.com/LeehXD">
     
     
- 
-    
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeehXD&layout=compact&langs_count=16&theme=radical" />
 
@@ -49,6 +47,10 @@ Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também p
 #
    
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
-   
-   
+        
+ 
+ <td align = "center">
+      <img alt = "" width = "400" src = "https://github.com/LeehXD/LeehXD/blob/master/metrics.classic.svg">
+      <img width = "900" height = "1" alt = "">
+    </td>
  </div>  
