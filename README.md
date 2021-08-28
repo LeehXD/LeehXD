@@ -3,7 +3,7 @@
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />  
 ### About Me:
   
-Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando     graduação em Análise e Desenvolvimento de Sistema - UNIVEM.
+Meu nome é Letícia, tenho 19 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistema - UNIVEM.
 Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também pelo mundo do design de interfaces. 
   
 
