@@ -1,12 +1,7 @@
 <div>
   
-# Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />  
-### About Me:
+# Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
   
-Meu nome é Letícia, tenho 21 anos sou técnica em informática formada na escola técnica - ETEC Antônio Devisate, formada em 2019. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistema - UNIMAR.
-Estudando para me tornar desenvolvedora Front-End, pois sou apaixonada também pelo mundo do design de interfaces. 
-  
-
   <a href="https://github.com/LeehXD">
     
     
