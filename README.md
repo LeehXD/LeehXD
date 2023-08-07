@@ -2,8 +2,8 @@
   
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 
-  ![](https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true)
   ![](https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=radical)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd)](https://github.com/leehxd/github-readme-stats)
 
   
   <a href="https://github.com/LeehXD">
