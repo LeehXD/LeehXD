@@ -2,8 +2,8 @@
   
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leehxd=anuraghazra&show_icons=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leehxd=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LeehXD=anuraghazra&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LeehXD=anuraghazra&show_icons=true&theme=radical)
 
   
   <a href="https://github.com/LeehXD">
