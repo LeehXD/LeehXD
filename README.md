@@ -4,6 +4,8 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=radical)
   <img height = "50em" src = "https://giphy.com/embed/juua9i2c2fA0AIp2iq" />
+
+  [via GIPHY](https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq)
   
   
   
