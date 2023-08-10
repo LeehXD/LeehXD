@@ -5,8 +5,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=radical)
   <img height = "50em" src = "https://giphy.com/embed/juua9i2c2fA0AIp2iq" />
 
-  [via GIPHY]([https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq](https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s))
-  
+<img src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
   
   
   <a href="https://github.com/LeehXD">
