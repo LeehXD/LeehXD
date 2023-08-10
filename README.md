@@ -9,7 +9,7 @@
   <a href="https://github.com/LeehXD">
 
 ##
-<img height = "500px" scr ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9nNzdzM3BxeHk4ZWUxeXd5NHl2ZzFmaGJkNzY1M256M2M0aXM1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"/>
+<img scr ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9nNzdzM3BxeHk4ZWUxeXd5NHl2ZzFmaGJkNzY1M256M2M0aXM1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"/>
 ##
  ### Connect with me:
 
