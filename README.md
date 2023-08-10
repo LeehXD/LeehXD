@@ -8,8 +8,9 @@
   
   <a href="https://github.com/LeehXD">
 
-<img height = "500px" scr ="https://media3.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=ecf05e47t0ov7hzwavv1cymos2jm6pema1btx4lqjsaumuzt&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
-    
+##
+<img height = "500px" scr ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9nNzdzM3BxeHk4ZWUxeXd5NHl2ZzFmaGJkNzY1M256M2M0aXM1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif"/>
+##
  ### Connect with me:
 
  <a href = "https://api.whatsapp.com/send?phone=5514996070485&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
