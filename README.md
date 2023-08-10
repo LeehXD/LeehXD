@@ -3,7 +3,7 @@
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 
   ![](https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact)
+  [via GIPHY](https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq)
   
   <a href="https://github.com/LeehXD">
     
