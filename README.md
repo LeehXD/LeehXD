@@ -5,7 +5,6 @@
 
   <img height = "500px" src = "https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47sh4porccu4yu85z6m9ue7pb9be0iqtddrm6qudwt&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>  
 
-  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@_leehxd" data-unique-id="_leehxd" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@_leehxd?refer=creator_embed">@_leehxd</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
   
   <a href="https://github.com/LeehXD">
 
