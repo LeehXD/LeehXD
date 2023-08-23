@@ -1,7 +1,7 @@
 
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 
-<img src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
+<img width="50" src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
 <img align="right" src="https://img.shields.io/github/followers/iuryLandin?label=Follow&style=social" />
 <h1 align="center"></h1>
 <h1 align="center"></h1>
