@@ -4,9 +4,9 @@
 <img align="left"  width="150" src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
 <img align="right" src="https://img.shields.io/github/followers/leehxd?label=Follow&style=social" />
 </br>
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
 </br>
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
+<img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
 </br>
 <table>
     <tr>
