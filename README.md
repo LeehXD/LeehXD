@@ -3,8 +3,8 @@
 
 <img align="left"  width="150" src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
 <img align="right" src="https://img.shields.io/github/followers/iuryLandin?label=Follow&style=social" />
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
 <img height="150" />
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
@@ -25,6 +25,5 @@
  
 Me segue ai! 😅
 
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leehxdn/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leehxd/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiajm/)
