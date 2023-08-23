@@ -2,7 +2,7 @@
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 
 <img align="left"  width="150" src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
-<img align="right" src="https://img.shields.io/github/followers/iuryLandin?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/leehxd?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
