@@ -3,19 +3,19 @@
 
 <img align="left"  width="150" src="https://profile-counter.glitch.me/LeehXD/count.svg" />  
 <img align="right" src="https://img.shields.io/github/followers/leehxd?label=Follow&style=social" />
-<img height="150" />
+</br>
 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
-        <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="110" alt="Vue.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/html-5.png" width="110" alt="HTML5"></td>
-        <td><img src="https://img.icons8.com/color/2x/css3.png" width="110" alt="CSS3"></td>
-        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="110" alt="Bootstrap"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="110" alt="JavaScript"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="110" alt="Laravel"></td>
+        <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
+        <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
+        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel"></td>
     </tr>
  
 </table>
