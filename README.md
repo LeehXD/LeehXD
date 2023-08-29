@@ -1,9 +1,6 @@
 
 # Hello World, I'm  Leeh, be very welcome <img height = "50em" src = "https://pa1.narvii.com/6600/68788f7598534e8ef6dadb46cab6a194d340d312_hq.gif" />
 </br>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=leehxd&count_private=true&show_icons=true&theme=radical" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=radical&langs_count=8" />
-</br>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"></td>
