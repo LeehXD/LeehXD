@@ -1,7 +1,5 @@
 
 # Hello World, I'm  Leeh, be very welcome 
-<img align="left" src="https://komarev.com/ghpvc/?username=leehxd&label=Profile%20views&color=0e75b6&style=flat" />
-<img align="right" src="https://img.shields.io/github/followers/leehxd?label=Follow&style=social" />
 </br>
 <table>
     <tr>
