@@ -2,6 +2,7 @@
 # Hello World, I'm  Leeh, be very welcome 
 </br>
 <table>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leehxd&layout=compact&theme=dracula" />
     <tr>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"></td>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
