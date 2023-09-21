@@ -1,20 +1,17 @@
 
 # Hello World, I'm  Leeh, be very welcome 
-</br>
 <table>
  <a href="https://github.com/leehxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
-<tr>
-        <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
-        <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
-        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
-         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript"></td>
-         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel"></td>
-</tr>
+<img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+<img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+<img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+<img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+<img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+<img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel">
 </table>
 
 **Marília, SP - 🇧🇷**  
